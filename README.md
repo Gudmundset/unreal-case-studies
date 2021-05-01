@@ -1,6 +1,6 @@
 # unreal-case-studies
 
-## Case 1
+## Case 1 - Grab info from a public API in Unreal using authentication in VA Rest plugin
 
 A colleague at SPI wanted to grab covid data from a public API so it could appear in his game. I'm happy to help with stuff like this
 
